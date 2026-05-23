@@ -1,3 +1,4 @@
 # README
+# 3C TI
+Nome Completo:Thiago Gotti rapozo
 
-Nome Completo: Seu Nome Aqui
